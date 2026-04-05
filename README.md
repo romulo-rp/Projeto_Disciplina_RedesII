@@ -22,22 +22,10 @@ Empresa com dois andares contendo setores como atendimento, pesquisa, planejamen
 - Elaboração de orçamento completo
 - Identificação e padronização dos pontos de rede
 
-## 🖼️ Imagens do Projeto
-
-### Topologia lógica
-![Topologia](imagens/topologia-logica.png)
-
-### Planta baixa
-![Planta](imagens/planta-baixa.png)
-
 ## 📊 Resultados
 - Projeto completo de rede corporativa
 - Documentação técnica detalhada
 - Planejamento de infraestrutura escalável
-
-## 📁 Arquivos
-- Documento completo do projeto em PDF
-- Arquivo do Cisco Packet Tracer (.pkt)
 
 ## 👨‍💻 Autor
 Rômulo Rodrigues
